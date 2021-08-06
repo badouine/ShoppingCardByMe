@@ -1,0 +1,28 @@
+body{
+    margin: 2em;
+    padding: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     /*display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+}
+img{
+    border: solid 1px #f1f0e0;
+    border-radius: 15px ;
+}
+#total{
+    font-weight: bold;
+    color: coral;
+}
+
+.minus{
+    margin-right: 25px;
+}
+.plus{
+    margin-left: 15px;
+}
+
+.show{
+    background-color: red;
+}
